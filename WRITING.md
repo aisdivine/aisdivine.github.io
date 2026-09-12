@@ -40,6 +40,20 @@ picks up your notes, edits the draft, and replies live. This is "the writer."
    ```
    Then verify external links resolve, and push.
 
+## Voice
+
+Plain, straight-to-the-point technical English. The argument and the numbers
+carry the punch — never the phrasing. (Divine, 2026-09-11, stated twice.)
+
+- **No reader directives.** Never tell the reader how to react: no "Sit with
+  that number", "Read that again", "Notice that".
+- **No flashy callbacks or quip closers.** End sections and the post on the
+  plain statement of the point, not a flourish or a callback line.
+- **No cutesy asides or ornamental similes.** If a sentence restates a point
+  as a joke or decoration, delete it and let the plain sentence stand.
+- **Don't manufacture beats "in Divine's style"** from older posts — when
+  unsure, choose the flatter phrasing.
+
 ## Conventions
 
 - Draft markdown: `# Title`, then an italic `*meta line*`, then `**Dek:** …`,
